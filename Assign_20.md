@@ -18,7 +18,7 @@ The underlying data structure is a **Singly Linked List (SLL)**, where each node
 
 ---
 
-## 📐 Algorithm: FrontBackSplit\_npk
+##  Algorithm: FrontBackSplit\_npk
 
 The algorithm is designed to fulfill the following problem specification for list splitting:
 
@@ -45,7 +45,7 @@ The `FrontBackSplit_npk` function achieves an $O(N)$ split complexity using two 
 
 ---
 
-## 💻 C++ Code Implementation (Simplified SLL)
+## C++ Code Implementation (Simplified SLL)
 
 ```cpp
 

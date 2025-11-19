@@ -11,7 +11,7 @@ A **sparse matrix** is a matrix in which most of the elements are zero.
 **Definition:**  
 A matrix is considered *sparse* when the number of zero elements is significantly more than the number of non-zero elements.
 
-👉 In the sparse matrix concept, we try to **reduce the memory usage** by storing only the non-zero elements and their positions.
+ In the sparse matrix concept, we try to **reduce the memory usage** by storing only the non-zero elements and their positions.
 
 ---
 

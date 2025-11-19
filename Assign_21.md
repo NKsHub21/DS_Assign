@@ -231,7 +231,7 @@ int main() {
 
 ---
 
-## 🧠 Concept Recap
+##  Concept Recap
 
 <p>The <b>Stack</b> operates on the <b>LIFO (Last In, First Out)</b> principle.  
 This implementation dynamically manages stock prices using linked list nodes, avoiding static size limitations.  
